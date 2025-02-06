@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="2">
   <diagram name="First Step" id="-53-POv7OxiW75CClGac">
     <mxGraphModel dx="1605" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -92,6 +92,79 @@
         </mxCell>
         <mxCell id="idmvM7N9bfhTqQ1Na9Ao-36" value="Falha" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="65" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vwaRcfnG8KWwPxnMDyj7" name="Página-2">
+    <mxGraphModel dx="3118" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x42E7nWWElBLlf1ENTAf-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x42E7nWWElBLlf1ENTAf-1" target="x42E7nWWElBLlf1ENTAf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x42E7nWWElBLlf1ENTAf-1" value="Inicio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x42E7nWWElBLlf1ENTAf-2" value="Fim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rV_p6lx6szBN6qhLDGhv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x42E7nWWElBLlf1ENTAf-3" target="rV_p6lx6szBN6qhLDGhv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rV_p6lx6szBN6qhLDGhv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x42E7nWWElBLlf1ENTAf-3" target="rV_p6lx6szBN6qhLDGhv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x42E7nWWElBLlf1ENTAf-3" value="Verificar se as tabelas $data e $data_subdivided foram criadas e populadas corretamente" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="40" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rV_p6lx6szBN6qhLDGhv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rV_p6lx6szBN6qhLDGhv-1" target="x42E7nWWElBLlf1ENTAf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rV_p6lx6szBN6qhLDGhv-1" value="Falha" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rV_p6lx6szBN6qhLDGhv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rV_p6lx6szBN6qhLDGhv-4" target="rV_p6lx6szBN6qhLDGhv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rV_p6lx6szBN6qhLDGhv-4" value="Sucesso" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rV_p6lx6szBN6qhLDGhv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rV_p6lx6szBN6qhLDGhv-6" target="rV_p6lx6szBN6qhLDGhv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rV_p6lx6szBN6qhLDGhv-6" value="Iniciar inserção das Features" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rV_p6lx6szBN6qhLDGhv-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rV_p6lx6szBN6qhLDGhv-8" target="rV_p6lx6szBN6qhLDGhv-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rV_p6lx6szBN6qhLDGhv-8" value="armazenar um array com todas as tadas iniciais do período a ser gerado ex:" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="413.5" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rV_p6lx6szBN6qhLDGhv-52" value="Processo feito para cada loi (1, 2, 3, 4)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-634" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rV_p6lx6szBN6qhLDGhv-59" value="Realizar a inserção&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rV_p6lx6szBN6qhLDGhv-61" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="393.5" width="380" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rV_p6lx6szBN6qhLDGhv-49" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Cerrado: 2022, 2023, 2024 =&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;start_date = [&#39;2022-07-31&#39;, &#39;2023-07-31&#39;, &#39;2024-07-31&#39;]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;end_date = [&#39;2021-08-01&#39;, &#39;2022-08-01&#39;, &#39;2023-08-01&#39;]&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="rV_p6lx6szBN6qhLDGhv-61">
+          <mxGeometry x="30" y="20" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rV_p6lx6szBN6qhLDGhv-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="rV_p6lx6szBN6qhLDGhv-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" />
+              <mxPoint x="380" y="140" />
+              <mxPoint y="140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
