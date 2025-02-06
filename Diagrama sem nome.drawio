@@ -96,7 +96,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="vwaRcfnG8KWwPxnMDyj7" name="Página-2">
+  <diagram id="vwaRcfnG8KWwPxnMDyj7" name="Second Step">
     <mxGraphModel dx="1949" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -222,6 +222,9 @@
         </mxCell>
         <mxCell id="Ogb3Gx_uFZHmN8T4mHJZ-11" value="Falha" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="619" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l81dIXSP34XYCLkzT5MG-1" value="2° Passo - Inserção na tabela Features" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
